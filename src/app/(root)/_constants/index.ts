@@ -431,5 +431,4 @@ export const defineMonacoThemes = (monaco: Monaco) => {
       })),
       colors: themeData.colors,
     });
-  });
-};
+  });};

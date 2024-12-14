@@ -20,7 +20,7 @@ async function Header() {
 
   return (
     <>
-      <div className="relative z-10">
+      <div className="relative z-10 lg:sticky lg:top-0">
         <div
           className="flex items-center lg:justify-between justify-center 
         bg-[#0a0a0f]/80 backdrop-blur-xl p-6 mb-4 rounded-lg"
